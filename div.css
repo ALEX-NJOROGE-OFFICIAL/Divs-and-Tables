@@ -1,0 +1,23 @@
+div{
+    border: 2px solid red;
+    height: 50px;
+    width: 100%;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+table{
+    background-color: gray;
+    margin-top: 100px;
+    border: 2px solid green;
+
+}
+
+th{
+    border: 1px solid yellow;
+    width: 100px;
+    height: 5px;
+}
+td{
+    border: 1px solid brown;
+}
